@@ -259,5 +259,3 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=130&section=footer)
 ```
-
----
