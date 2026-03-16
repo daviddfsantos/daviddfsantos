@@ -58,8 +58,8 @@ Localização: Goiânia, GO — Brasil
 | 📈 Expressão Diferencial | `DESeq2` · `edgeR` |
 | 🕸️ Redes de Co-expressão | `WGCNA` |
 | 🌳 Filogenômica | `IQ-TREE` · `MEGA` · `MrBayes` · `MAFFT` |
-| 🧪 Anotação Funcional | `BLAST` · `InterProScan` · `GO/KEGG` |
-| 🧫 Genética Forense/Pop | `GeneMapper` · `GenAlEx` · `STRUCTURE` |
+| 🧪 Anotação Funcional | `BLAST`|
+| 🧫 Genética Forense/Pop | `GeneMapper` |
 | 🔬 Sequenciamento | `ABI 3500` · `ABI 3500XL` (Sanger) |
 
 </details>
