@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+biol%C3%B3gicos+em+conhecimento+%F0%9F%A7%AC;Pipelines+%7C+NGS+%7C+Co-expression+Networks+%7C+Phylogenomics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+biol%C3%B3gicos+em+conhecimento+%F0%9F%A7%AC;Pipelines+%7C+NGS+%7C+Co-expression+Networks+%7C+Phylogenomics)](https://git.io/typing-svg)
 
 </div>
 
