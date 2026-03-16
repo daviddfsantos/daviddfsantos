@@ -117,7 +117,7 @@ Pipeline completo para análise de redes de co-expressão gênica com dados púb
 
 `R` `WGCNA` `DESeq2` `RNA-Seq` `Pipeline`
 
-🔗 **[Ver Repositório →](https://github.com/SEU_USER/spodoptera-coexpression-pipeline)**
+🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/spodoptera-coexpression-pipeline)**
 
 </td>
 <td width="50%">
@@ -127,7 +127,7 @@ Montagem de mitogenomas, reconstrução filogenética e análises de diversidade
 
 `Python` `NOVOPlasty` `IQ-TREE` `MAFFT`
 
-🔗 **[Ver Repositório →](https://github.com/SEU_USER/phasmatodea-mitogenome)**
+🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/phasmatodea-mitogenome)**
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ Coleção de scripts úteis para rotinas de bioinformática no dia a dia.
 
 `Python` `R` `Perl` `Bash`
 
-🔗 **[Ver Repositório →](https://github.com/SEU_USER/bioinfo-scripts)**
+🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/bioinfo-scripts)**
 
 </td>
 <td width="50%">
@@ -149,7 +149,7 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 `Notebooks` `Pipelines` `Estudos`
 
-🔗 **[Ver Repositório →](https://github.com/SEU_USER/bioinformatics-learning)**
+🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/bioinformatics-learning)**
 
 </td>
 </tr>
@@ -162,21 +162,21 @@ Anotações e projetos da pós-graduação em Bioinformática.
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SpatiumRimor&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=C9D1D9&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpatiumRimor&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=C9D1D9&langs_count=8"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SpatiumRimor&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USER&bg_color=0D1117&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&area_color=2E8B5730&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpatiumRimor&bg_color=0D1117&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&area_color=2E8B5730&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -229,11 +229,11 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 [![Lattes](https://img.shields.io/badge/📄_Currículo_Lattes-005AA7?style=for-the-badge)](https://lattes.cnpq.br/1207118458591402)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-daniel-bioinfo)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviddbioinfo@gmail.com)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU_ORCID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2481-1112)
 
 </div>
 
@@ -241,9 +241,9 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USER&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SpatiumRimor&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/SEU_USER?label=FOLLOWERS&style=for-the-badge&color=2E8B57&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/SpatiumRimor?label=FOLLOWERS&style=for-the-badge&color=2E8B57&labelColor=0D1117" alt="Followers"/>
 
 </div>
 
@@ -266,9 +266,9 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 | Placeholder | Substitua por |
 |---|---|
-| `SEU_USER` | Seu username do GitHub |
-| `SEU_LINKEDIN` | Seu ID do LinkedIn |
-| `SEU_EMAIL@email.com` | Seu email real |
+| `SEU_USER` | name do GitHub |
+| `david-daniel-bioinfo` | Seu ID do LinkedIn |
+| `daviddbioinfo@gmail.com` | Seu email real |
 | `SEU_ORCID` | Seu ID ORCID (se tiver) |
 
-> 💡 **Como usar:** Crie um repositório com **exatamente o mesmo nome do seu username**, adicione um arquivo `README.md` e cole todo o conteúdo acima. O GitHub automaticamente exibirá no seu perfil!
+> 💡 **Como usar:** Crie um repositório com **exatamente o mesmo nome do name**, adicione um arquivo `README.md` e cole todo o conteúdo acima. O GitHub automaticamente exibirá no seu perfil!
