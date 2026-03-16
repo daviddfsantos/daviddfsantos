@@ -1,8 +1,3 @@
-
-
-Aqui está o markdown completo, pronto para copiar e colar:
-
-```markdown
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=250&text=David%20Daniel%20F.%20Santos&fontSize=38&fontColor=ffffff&fontAlignY=30&desc=🧬%20Biólogo%20|%20Analista%20de%20Bioinformática%20|%20Genomics%20Enthusiast&descSize=16&descAlignY=52&animation=fadeIn)
 
 <div align="center">
