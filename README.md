@@ -1,227 +1,281 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:006400&height=220&text=David%20Daniel%20F.%20Santos&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Biólogo%20|%20Analista%20de%20Bioinformática&descSize=18&descAlignY=55)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Bioinformática+%7C+Genômica+%7C+Biologia+Computacional;Pipeline+Development+%7C+NGS+Data+Analysis;Co-expression+Networks+%7C+Phylogenomics;Transformando+dados+biológicos+em+conhecimento+🧬)](https://git.io/typing-svg)
-
----
-
-## 👨‍🔬 Sobre Mim
-
-```text
-🎓 Biólogo graduado pela PUC-GO (Magna Cum Laude)
-📚 Pós-graduando em Bioinformática Aplicada à Saúde - PUC Minas
-💼 Analista de Bioinformática na Biocroma
-🔬 Experiência com PIBIC/CNPq e rotinas laboratoriais
-🧬 Foco em análise computacional de dados biológicos
-📍 Goiânia, GO - Brasil
-🔭 Atualmente trabalhando com sequenciadores ABI 3500/3500XL e GeneMapper
-🌱 Aprofundando conhecimentos em Bioinformática, Genômica e Pipelines NGS
-🧪 Experiência em redes de co-expressão gênica, montagem de mitogenomas e filogenômica
-📫 Contato: [seu-email@email.com]
-📄 Lattes: lattes.cnpq.br/1207118458591402
-🛠️ Tecnologias & Ferramentas
-💻 Linguagens de Programação
-Python
-R
-Perl
-Bash
-
-🧬 Bioinformática & Genômica
-Bioinformatics
-NGS
-WGCNA
-Phylogenomics
-GeneMapper
-
-🔧 Ferramentas & Plataformas
-Linux
-Git
-GitHub
-QGIS
-Conda
-
-🧪 Laboratório & Equipamentos
-ABI 3500
-Sequencing
-
-🎓 Formação Acadêmica
-📅 Período	🎓 Formação	🏛️ Instituição
-2025 - Atual	Especialização em Bioinformática Aplicada à Saúde	PUC Minas
-2021 - 2025	Graduação em Ciências Biológicas (Magna Cum Laude)	PUC Goiás
-💼 Experiência Profissional
-📅 Período	💼 Cargo	🏢 Instituição
-2025 - Atual	Analista de Bioinformática	Biocroma
-2024	Estágio em Bioinformática	UFG - ICB
-2023	Estágio no Núcleo de Pesquisas Replicon (NPR)	PUC Goiás
-2023	Estágio no Lab. Genética e Biodiversidade (LGBio)	UFG
-2022 - 2023	Bolsista PIBIC/CNPq - Iniciação Científica	PUC Goiás
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=2E8B57&icon_color=2E8B57"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=merko&title_color=2E8B57"/></div><div align="center">
-GitHub Streak
-
-</div>
-🔬 Projetos em Destaque
-<div align="center">
-Readme Card
-
-</div>
-📌 Pipeline de bioinformática para análise de redes de co-expressão gênica (WGCNA) com dados de RNA-Seq de Spodoptera frugiperda
-
-📝 Publicações & Apresentações
-📄 SANTOS, D. D. F.; ROMAO, H. A. A.; CARNEIRO, J. A.; CORVALAN, L. J. C.; NUNES, R.; DIAS, R. O.
-"Expanding genomic insights into Phasmatodea: mitogenome assembly, phylogenetic reconstruction and nucleotide diversity analyses."
-69º Congresso Brasileiro de Genética, 2024.
-
-🌐 Conecte-se Comigo
-<div align="center">
-Lattes
-LinkedIn
-Email
-
-</div>
-<div align="center">
-Visitors
-
-</div>
-footer
-
-text
 
 
----
-
-## 3. 📌 Repositórios que Você Deve Criar e Fixar
-
-Crie estes repositórios para mostrar suas competências:
-
-### Repositório 1: TCC (Pipeline WGCNA)
-📁 Nome: spodoptera-coexpression-pipeline
-📝 Descrição: Pipeline de bioinformática para análise de redes de
-co-expressão gênica (WGCNA) em Spodoptera frugiperda com dados
-públicos de RNA-Seq.
-🏷️ Tags: bioinformatics, wgcna, rnaseq, genomics, pipeline,
-spodoptera, co-expression-network
-
-text
-
-
-### Repositório 2: Phasmatodea Mitogenome
-📁 Nome: phasmatodea-mitogenome
-📝 Descrição: Mitogenome assembly, phylogenetic reconstruction and
-nucleotide diversity analyses in Phasmatodea.
-🏷️ Tags: mitogenome, phylogenetics, genomics, bioinformatics,
-phasmatodea
-
-text
-
-
-### Repositório 3: Scripts de Bioinformática
-📁 Nome: bioinfo-scripts
-📝 Descrição: Coleção de scripts úteis em Python, R, Perl e Bash
-para análises de bioinformática.
-🏷️ Tags: bioinformatics, python, r, perl, bash, scripts, genomics
-
-text
-
-
-### Repositório 4: Aprendizado
-📁 Nome: bioinformatics-learning
-📝 Descrição: Repositório com anotações, exercícios e projetos da
-especialização em Bioinformática Aplicada à Saúde (PUC Minas).
-🏷️ Tags: bioinformatics, learning, pucminas, notes
-
-text
-
-
----
-
-## 4. 📄 Template de README para Projetos de Bioinformática
+Aqui está o markdown completo, pronto para copiar e colar:
 
 ```markdown
-# 🧬 Nome do Projeto
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=250&text=David%20Daniel%20F.%20Santos&fontSize=38&fontColor=ffffff&fontAlignY=30&desc=🧬%20Biólogo%20|%20Analista%20de%20Bioinformática%20|%20Genomics%20Enthusiast&descSize=16&descAlignY=52&animation=fadeIn)
 
-![Badge](https://img.shields.io/badge/status-concluído-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Bioinformatics](https://img.shields.io/badge/field-Bioinformatics-2E8B57)
+<div align="center">
 
-## 📋 Descrição
-Breve descrição do pipeline/projeto.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+biol%C3%B3gicos+em+conhecimento+%F0%9F%A7%AC;Pipelines+%7C+NGS+%7C+Co-expression+Networks+%7C+Phylogenomics)](https://git.io/typing-svg)
 
-## 🎯 Objetivo
-O que o projeto busca responder/resolver.
+</div>
 
-## 🧪 Metodologia / Pipeline
+---
+
+<img align="right" alt="DNA Animation" width="320" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+
+### 👨‍🔬 &nbsp;Sobre Mim
+
+```yaml
+Nome:       David Daniel Ferreira dos Santos
+Cargo:      Analista de Bioinformática @ Biocroma
+Formação:   Biólogo (PUC-GO) — Magna Cum Laude
+Pós-Grad:   Bioinformática Aplicada à Saúde (PUC Minas)
+Pesquisa:   Ex-bolsista PIBIC/CNPq
+Foco:       Genômica, Pipelines NGS, Redes Gênicas
+Localização: Goiânia, GO — Brasil
+```
+
+<br>
+
+- 🔬 Atualmente trabalhando com **Sequenciadores ABI 3500/3500XL** e **GeneMapper**
+- 🧬 TCC: *Pipeline para análise de redes de co-expressão gênica (WGCNA) em Spodoptera frugiperda*
+- 📄 Publicação no **69º Congresso Brasileiro de Genética** — Mitogenômica de Phasmatodea
+- 🌱 Aprofundando conhecimentos em **NGS, RNA-Seq, Filogenômica e Machine Learning aplicado à biologia**
+- 🌍 Idiomas: **Português** (nativo) · **Inglês** (avançado)
+
+<br clear="right"/>
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<details open>
+<summary><b>💻 Linguagens de Programação</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧬 Bioinformática & Genômica</b></summary>
+<br>
+
+| Área | Ferramentas / Métodos |
+|:---|:---|
+| 🔍 Controle de Qualidade | `FastQC` · `Trimmomatic` · `MultiQC` |
+| 🗺️ Alinhamento & Montagem | `HISAT2` · `STAR` · `SPAdes` · `NOVOPlasty` |
+| 📊 Quantificação | `featureCounts` · `Salmon` · `HTSeq` |
+| 📈 Expressão Diferencial | `DESeq2` · `edgeR` |
+| 🕸️ Redes de Co-expressão | `WGCNA` |
+| 🌳 Filogenômica | `IQ-TREE` · `MEGA` · `MrBayes` · `MAFFT` |
+| 🧪 Anotação Funcional | `BLAST` · `InterProScan` · `GO/KEGG` |
+| 🧫 Genética Forense/Pop | `GeneMapper` · `GenAlEx` · `STRUCTURE` |
+| 🔬 Sequenciamento | `ABI 3500` · `ABI 3500XL` (Sanger) |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Ferramentas & Plataformas</b></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+</details>
+
+---
+
+## 🎓 &nbsp;Formação Acadêmica
+
 ```mermaid
-graph LR
-    A[Dados Brutos - SRA/NCBI] --> B[Controle de Qualidade - FastQC/Trimmomatic]
-    B --> C[Alinhamento - HISAT2/STAR]
-    C --> D[Quantificação - featureCounts]
-    D --> E[Análise Diferencial - DESeq2]
-    E --> F[Redes de Co-expressão - WGCNA]
-    F --> G[Enriquecimento Funcional - GO/KEGG]
-⚙️ Pré-requisitos
-Python >= 3.8
-R >= 4.0
-Ferramentas: FastQC, Trimmomatic, HISAT2, etc.
-🚀 Como Usar
-Bash
-
-# Clone o repositório
-git clone https://github.com/SEU_USER/projeto.git
-cd projeto
-
-# Instale dependências
-conda env create -f environment.yml
-conda activate pipeline
-
-# Execute o pipeline
-bash run_pipeline.sh
-📁 Estrutura do Projeto
-text
-
-├── data/           # Dados de entrada (não versionados)
-├── scripts/        # Scripts do pipeline
-├── results/        # Resultados das análises
-├── figures/        # Figuras geradas
-├── docs/           # Documentação
-├── environment.yml # Dependências conda
-└── README.md
-📊 Resultados
-Inclua figuras ou links para resultados relevantes.
-
-📚 Referências
-Artigos e ferramentas utilizadas.
-📝 Citação
-Se usar este pipeline, por favor cite:
-
-SANTOS, D. D. F. (2025). [Título]. GitHub repository.
-
-📄 Licença
-MIT License
-
-text
-
+timeline
+    title Trajetória Acadêmica & Profissional
+    2018 : 🏫 Ensino Médio — Colégio Anhanguera
+         : 🇬🇧 Master in English — CNA Idiomas (400h)
+    2021 : 🎓 Início da Graduação em Ciências Biológicas — PUC-GO
+    2022 : 🔬 Bolsista PIBIC/CNPq — Pesquisa em Resíduos Sólidos
+         : 🌿 Diretor de Marketing — Liga Acadêmica de Botânica
+    2023 : 🧪 Estágio — Lab. Genética e Biodiversidade (LGBio/UFG)
+         : 🔬 Estágio — Núcleo de Pesquisas Replicon (NPR/PUC-GO)
+    2024 : 💻 Estágio em Bioinformática — ICB/UFG
+         : 📄 69º Congresso Brasileiro de Genética — Phasmatodea
+         : 🐪 Curso de Perl para Bioinformática
+    2025 : 🎓 Graduação concluída — Magna Cum Laude
+         : 💼 Analista de Bioinformática — Biocroma
+         : 📚 Pós-graduação — Bioinformática Aplicada à Saúde (PUC Minas)
+```
 
 ---
 
-## 5. ✅ Checklist Final
-☐ Foto de perfil profissional adicionada
-☐ Bio preenchida com palavras-chave da área
-☐ Link do Lattes no perfil
-☐ Repositório de profile README criado
-☐ Pelo menos 4-6 repositórios organizados
-☐ 6 repositórios fixados (pinned)
-☐ Cada repositório com README completo
-☐ Descrição e tags em todos os repos
-☐ .gitignore configurado em cada projeto
-☐ Licença adicionada (MIT recomendada)
-☐ Commits com mensagens claras e em inglês
-☐ Contribuições regulares (quadradinhos verdes)
+## 🔬 &nbsp;Projetos em Destaque
 
-text
+<div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
+### 🕸️ WGCNA Pipeline — *S. frugiperda*
+Pipeline completo para análise de redes de co-expressão gênica com dados públicos de RNA-Seq.
+
+`R` `WGCNA` `DESeq2` `RNA-Seq` `Pipeline`
+
+🔗 **[Ver Repositório →](https://github.com/SEU_USER/spodoptera-coexpression-pipeline)**
+
+</td>
+<td width="50%">
+
+### 🌳 Mitogenômica — Phasmatodea
+Montagem de mitogenomas, reconstrução filogenética e análises de diversidade nucleotídica.
+
+`Python` `NOVOPlasty` `IQ-TREE` `MAFFT`
+
+🔗 **[Ver Repositório →](https://github.com/SEU_USER/phasmatodea-mitogenome)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧰 Bioinfo Scripts
+Coleção de scripts úteis para rotinas de bioinformática no dia a dia.
+
+`Python` `R` `Perl` `Bash`
+
+🔗 **[Ver Repositório →](https://github.com/SEU_USER/bioinfo-scripts)**
+
+</td>
+<td width="50%">
+
+### 📚 Bioinformatics Learning
+Anotações e projetos da pós-graduação em Bioinformática.
+
+`Notebooks` `Pipelines` `Estudos`
+
+🔗 **[Ver Repositório →](https://github.com/SEU_USER/bioinformatics-learning)**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-> 🎯 **Dica para sua área:** Na bioinformática, recrutadores e colaboradores valorizam **pipelines reprodutíveis**, **documentação clara** e **código organizado**. Mostre que você sabe criar análises que outros possam replicar. Isso é um diferencial enorme!
+## 📊 &nbsp;GitHub Analytics
 
-Substitua `SEU_USER` pelo seu username real do GitHub e personalize os links. Boa sorte, David! 🧬🚀
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USER&bg_color=0D1117&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&area_color=2E8B5730&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 📝 &nbsp;Publicações & Congressos
+
+<details>
+<summary><b>📄 Trabalhos Apresentados</b></summary>
+<br>
+
+> **SANTOS, D. D. F.**; ROMAO, H. A. A.; CARNEIRO, J. A.; CORVALAN, L. J. C.; NUNES, R.; DIAS, R. O.
+> *"Expanding genomic insights into Phasmatodea: mitogenome assembly, phylogenetic reconstruction and nucleotide diversity analyses."*
+> **69º Congresso Brasileiro de Genética**, 2024.
+
+</details>
+
+<details>
+<summary><b>🎓 TCC</b></summary>
+<br>
+
+> **SANTOS, D. D. F.**
+> *"Desenvolvimento de um pipeline de bioinformática para análise de redes de co-expressão gênica com dados públicos de sequenciamento: estudo de caso com Spodoptera frugiperda (J. E. Smith, 1797)."*
+> Orientadora: Profa. Dra. Mariana Pires de Campos Telles — **PUC-GO**, 2025.
+
+</details>
+
+<details>
+<summary><b>🏛️ Congressos & Eventos (29+)</b></summary>
+<br>
+
+| Ano | Evento |
+|:---:|:---|
+| 2025 | Astrobiologia - Vida & Universo |
+| 2024 | 69º Congresso Brasileiro de Genética |
+| 2024 | 5ª Conferência Nacional de CT&I |
+| 2024 | Minicurso Anotação e Enriquecimento Funcional |
+| 2024 | Minicurso eDNA Metabarcoding |
+| 2022 | VIII Congresso de CT&I — PUC Goiás |
+| 2022 | I Congresso de Biólogos da 4ª Região |
+| 2021 | VII Congresso de CT&I — PUC Goiás |
+| ... | *e mais 20+ eventos* |
+
+</details>
+
+---
+
+## 🌐 &nbsp;Conecte-se Comigo
+
+<div align="center">
+
+[![Lattes](https://img.shields.io/badge/📄_Currículo_Lattes-005AA7?style=for-the-badge)](https://lattes.cnpq.br/1207118458591402)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@email.com)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU_ORCID)
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=SEU_USER&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/SEU_USER?label=FOLLOWERS&style=for-the-badge&color=2E8B57&labelColor=0D1117" alt="Followers"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <i>"In God we trust; all others must bring data."</i>
+  <br>
+  <b>— W. Edwards Deming</b>
+</div>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=130&section=footer)
+```
+
+---
+
+## ⚠️ Antes de colar, substitua estes campos
+
+| Placeholder | Substitua por |
+|---|---|
+| `SEU_USER` | Seu username do GitHub |
+| `SEU_LINKEDIN` | Seu ID do LinkedIn |
+| `SEU_EMAIL@email.com` | Seu email real |
+| `SEU_ORCID` | Seu ID ORCID (se tiver) |
+
+> 💡 **Como usar:** Crie um repositório com **exatamente o mesmo nome do seu username**, adicione um arquivo `README.md` e cole todo o conteúdo acima. O GitHub automaticamente exibirá no seu perfil!
