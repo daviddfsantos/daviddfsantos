@@ -261,14 +261,3 @@ Anotações e projetos da pós-graduação em Bioinformática.
 ```
 
 ---
-
-## ⚠️ Antes de colar, substitua estes campos
-
-| Placeholder | Substitua por |
-|---|---|
-| `SEU_USER` | name do GitHub |
-| `david-daniel-bioinfo` | Seu ID do LinkedIn |
-| `daviddbioinfo@gmail.com` | Seu email real |
-| `SEU_ORCID` | Seu ID ORCID (se tiver) |
-
-> 💡 **Como usar:** Crie um repositório com **exatamente o mesmo nome do name**, adicione um arquivo `README.md` e cole todo o conteúdo acima. O GitHub automaticamente exibirá no seu perfil!
