@@ -152,21 +152,21 @@ Anotações e projetos da pós-graduação em Bioinformática.
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SpatiumRimor&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpatiumRimor&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=C9D1D9&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daviddfsantos&show_icons=true&theme=transparent&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=777777&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddfsantos&layout=compact&theme=transparent&hide_border=true&title_color=2E8B57&text_color=777777&langs_count=8"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SpatiumRimor&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=daviddfsantos&theme=transparent&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=777777&dates=555555" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpatiumRimor&bg_color=0D1117&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&area_color=2E8B5730&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daviddfsantos&bg_color=transparent&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&area_color=2E8B5730&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -230,11 +230,9 @@ Anotações e projetos da pós-graduação em Bioinformática.
 ---
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=SpatiumRimor&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/SpatiumRimor?label=FOLLOWERS&style=for-the-badge&color=2E8B57&labelColor=0D1117" alt="Followers"/>
-
+  <img src="https://komarev.com/ghpvc/?username=daviddfsantos&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/daviddfsantos?label=FOLLOWERS&style=for-the-badge&color=2E8B57&labelColor=0D1117" alt="Followers"/>
 </div>
 
 <br>
