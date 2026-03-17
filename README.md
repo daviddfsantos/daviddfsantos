@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Onda flutuante" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/wbeuil/helix-svg/main/dist/helix-dna-blue.svg" alt="DNA Helix" />
 
 ### 👨‍🔬 &nbsp;Sobre Mim
 
