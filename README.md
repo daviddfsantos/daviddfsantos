@@ -117,19 +117,10 @@ Pipeline completo para análise de redes de co-expressão gênica com dados púb
 
 `R` `WGCNA` `DESeq2` `RNA-Seq` `Pipeline`
 
-🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/spodoptera-coexpression-pipeline)**
+🔗 **[Ver Repositório →](https://github.com/daviddfsantos/CoExGenePipeline)**
 
 </td>
-<td width="50%">
 
-### 🌳 Mitogenômica — Phasmatodea
-Montagem de mitogenomas, reconstrução filogenética e análises de diversidade nucleotídica.
-
-`Python` `NOVOPlasty` `IQ-TREE` `MAFFT`
-
-🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/phasmatodea-mitogenome)**
-
-</td>
 </tr>
 <tr>
 <td width="50%">
