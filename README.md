@@ -1,36 +1,46 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=250&text=David%20Daniel%20F.%20Santos&fontSize=38&fontColor=ffffff&fontAlignY=30&desc=🧬%20Biólogo%20|%20Analista%20de%20Bioinformática%20|%20Genomics%20Enthusiast&descSize=16&descAlignY=52&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=230&text=David%20Daniel%20F.%20Santos&fontSize=36&fontColor=ffffff&fontAlignY=32&desc=🧬%20Biologist%20|%20Bioinformatics%20Analyst%20|%20Genomics%20Enthusiast&descSize=16&descAlignY=54&animation=fadeIn)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+biol%C3%B3gicos+em+conhecimento+%F0%9F%A7%AC;Desenvolvendo+Pipelines+%7C+NGS+%7C+RNA-Seq;Redes+de+Co-express%C3%A3o+%7C+Filogen%C3%B4mica" alt="Typing SVG" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-daniel-bioinfo)
+[![Lattes](https://img.shields.io/badge/Lattes-005AA7?style=for-the-badge)](https://lattes.cnpq.br/1207118458591402)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2481-1112)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviddbioinfo@gmail.com)
+
 </div>
-
-<br>
-
-<img align="right" width="300" src="https://octodex.github.com/images/labtocat.png" alt="Labtocat" />
-
-### 👨‍🔬 &nbsp;Sobre Mim
-
-**Biólogo (Magna Cum Laude)** pela PUC-GO e pós-graduando em **Bioinformática Aplicada à Saúde** (PUC Minas). Atuo como **Analista de Bioinformática** na Biocroma, unindo programação computacional e biologia molecular para solucionar desafios genômicos.
-
-- 🔬 **Atuação:** Sequenciadores ABI 3500/3500XL e GeneMapper.
-- 🧬 **Pesquisa:** Redes de co-expressão gênica (WGCNA) em *S. frugiperda*.
-- 📄 **Destaque:** Publicação sobre Mitogenômica de Phasmatodea no 69º CBG.
-- 🌱 **Foco:** NGS, RNA-Seq, Filogenômica e Machine Learning na biologia.
-- 📍 **Base:** Goiânia, GO — Brasil.
-
-<br clear="all" />
-
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+## 👨‍🔬 Sobre mim
 
-<details>
-<summary><b>💻 Linguagens de Programação</b></summary>
-<br>
+Sou **Biólogo** formado pela **PUC-GO** (*Magna Cum Laude*) e atualmente atuo como **Analista de Bioinformática** na **Biocroma**, integrando biologia molecular, análise de dados e programação para resolver problemas em genômica.
 
+Atualmente, curso pós-graduação em **Bioinformática Aplicada à Saúde** pela **PUC Minas**, com interesse especial em:
+
+- **NGS e RNA-Seq**
+- **Redes de co-expressão gênica**
+- **Filogenômica e mitogenômica**
+- **Automação de pipelines**
+- **Aplicações de Machine Learning em biologia**
+
+📍 **Goiânia, GO — Brasil**
+
+---
+
+## 🔬 Áreas de atuação
+
+- **Bioinformática aplicada à genômica e transcriptômica**
+- **Desenvolvimento e organização de pipelines reprodutíveis**
+- **Análises de RNA-Seq e expressão diferencial**
+- **Redes de co-expressão gênica com WGCNA**
+- **Filogenia, filogenômica e montagem mitocondrial**
+- **Genética forense com ABI 3500/3500XL e GeneMapper**
+
+---
+
+## 🛠️ Tech Stack
+
+### Linguagens
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -41,29 +51,22 @@
 
 </div>
 
-</details>
+### Bioinformática & Genômica
 
-<details open>
-<summary><b>🧬 Bioinformática & Genômica</b></summary>
-<br>
+| Área | Ferramentas |
+|---|---|
+| Controle de Qualidade | `FastQC`, `Trimmomatic`, `MultiQC` |
+| Alinhamento & Montagem | `HISAT2`, `STAR`, `SPAdes`, `NOVOPlasty` |
+| Quantificação | `featureCounts`, `Salmon`, `HTSeq` |
+| Expressão Diferencial | `DESeq2`, `edgeR` |
+| Redes de Co-expressão | `WGCNA` |
+| Filogenômica | `IQ-TREE`, `MEGA`, `MrBayes`, `MAFFT` |
+| Anotação Funcional | `BLAST` |
+| Genética Forense | `GeneMapper` |
+| Sequenciamento | `ABI 3500`, `ABI 3500XL` |
 
-| Área | Ferramentas / Métodos |
-|:---|:---|
-| 🔍 Controle de Qualidade | `FastQC` · `Trimmomatic` · `MultiQC` |
-| 🗺️ Alinhamento & Montagem | `HISAT2` · `STAR` · `SPAdes` · `NOVOPlasty` |
-| 📊 Quantificação | `featureCounts` · `Salmon` · `HTSeq` |
-| 📈 Expressão Diferencial | `DESeq2` · `edgeR` |
-| 🕸️ Redes de Co-expressão | `WGCNA` |
-| 🌳 Filogenômica | `IQ-TREE` · `MEGA` · `MrBayes` · `MAFFT` |
-| 🧪 Anotação Funcional | `BLAST`|
-| 🧫 Genética Forense/Pop | `GeneMapper` |
-| 🔬 Sequenciamento | `ABI 3500` · `ABI 3500XL` (Sanger) |
-
-</details>
-
-<details open>
-<summary><b>⚙️ Ferramentas & Plataformas</b></summary>
-<br>
+### Ferramentas & Ambiente
+<div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -73,154 +76,99 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
-</details>
+</div>
 
 ---
 
-## 🎓 &nbsp;Formação Acadêmica
+## 🎓 Formação & trajetória
 
 ```mermaid
 timeline
-    title Trajetória Acadêmica & Profissional
-    2018 : 🏫 Ensino Médio — Colégio Anhanguera
-         : 🇬🇧 Master in English — CNA Idiomas (400h)
-    2021 : 🎓 Início da Graduação em Ciências Biológicas — PUC-GO
-    2022 : 🔬 Bolsista PIBIC/CNPq — Pesquisa em Resíduos Sólidos
-         : 🌿 Diretor de Marketing — Liga Acadêmica de Botânica
-    2023 : 🧪 Estágio — Lab. Genética e Biodiversidade (LGBio/UFG)
-         : 🔬 Estágio — Núcleo de Pesquisas Replicon (NPR/PUC-GO)
-    2024 : 💻 Estágio em Bioinformática — ICB/UFG
-         : 📄 69º Congresso Brasileiro de Genética — Phasmatodea
-         : 🐪 Curso de Perl para Bioinformática
-    2025 : 🎓 Graduação concluída — Magna Cum Laude
-         : 💼 Analista de Bioinformática — Biocroma
-         : 📚 Pós-graduação — Bioinformática Aplicada à Saúde (PUC Minas)
-```
+    title Formação Acadêmica e Experiência
+    2018 : Ensino Médio — Colégio Anhanguera
+         : Master in English — CNA Idiomas
+    2021 : Início da Graduação em Ciências Biológicas — PUC-GO
+    2022 : Bolsista PIBIC/CNPq
+         : Diretor de Marketing — Liga Acadêmica de Botânica
+    2023 : Estágio — Laboratório de Genética e Biodiversidade (LGBio/UFG)
+         : Estágio — Núcleo de Pesquisas Replicon (NPR/PUC-GO)
+    2024 : Estágio em Bioinformática — ICB/UFG
+         : Apresentação no 69º Congresso Brasileiro de Genética
+         : Curso de Perl para Bioinformática
+    2025 : Graduação concluída — Magna Cum Laude
+         : Analista de Bioinformática — Biocroma
+         : Pós-graduação — Bioinformática Aplicada à Saúde (PUC Minas)
+````
 
 ---
 
-## 🔬 &nbsp;Projetos em Destaque
+## 🚀 Projetos em destaque
 
-<div align="center">
+### 🕸️ WGCNA Pipeline — *Spodoptera frugiperda*
 
-<table>
-<tr>
-<td colspan="2" width="100%">
-
-### 🕸️ WGCNA Pipeline — *S. frugiperda*
 Pipeline completo para análise de redes de co-expressão gênica com dados públicos de RNA-Seq.
 
-`R` `WGCNA` `DESeq2` `RNA-Seq` `Pipeline`
-
-🔗 **[Ver Repositório →](https://github.com/daviddfsantos/CoExGenePipeline)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧰 Bioinfo Scripts
-Coleção de scripts úteis para rotinas de bioinformática no dia a dia.
-
-`Python` `R` `Perl` `Bash`
-
-🔗 **[Ver Repositório →](https://github.com/daviddfsantos/bioinfo-scripts)**
-
-</td>
-<td width="50%">
-
-### 📚 Bioinformatics Learning
-Anotações e projetos da pós-graduação em Bioinformática.
-
-`Notebooks` `Pipelines` `Estudos`
-
-🔗 **[Ver Repositório →](https://github.com/daviddfsantos/bioinformatics-learning)**
-
-</td>
-</tr>
-</table>
-
-</div>
+**Stack:** `R` `WGCNA` `DESeq2` `RNA-Seq`
+🔗 **[Acessar repositório](https://github.com/daviddfsantos/CoExGenePipeline)**
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+### 🧰 Bioinfo Scripts
+
+Coleção de scripts voltados para automação e apoio a rotinas de bioinformática.
+
+**Stack:** `Python` `R` `Perl` `Bash`
+🔗 **[Acessar repositório](https://github.com/daviddfsantos/bioinfo-scripts)**
+
+---
+
+### 📚 Bioinformatics Learning
+
+Repositório com estudos, anotações, testes e materiais produzidos durante a pós-graduação em Bioinformática.
+
+**Stack:** `Notebooks` `Pipelines` `Estudos`
+🔗 **[Acessar repositório](https://github.com/daviddfsantos/bioinformatics-learning)**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daviddfsantos&show_icons=true&theme=transparent&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=777777&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddfsantos&layout=compact&theme=transparent&hide_border=true&title_color=2E8B57&text_color=777777&langs_count=8"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviddfsantos&show_icons=true&theme=transparent&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=777777&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddfsantos&layout=compact&theme=transparent&hide_border=true&title_color=2E8B57&text_color=777777&langs_count=8"/>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=daviddfsantos&theme=transparent&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=777777&dates=555555" alt="GitHub Streak"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daviddfsantos&bg_color=transparent&color=2E8B57&line=2E8B57&point=FFFFFF&area=true&area_color=2E8B5730&hide_border=true" width="95%"/>
-</div>
-
 ---
 
-## 📝 &nbsp;Publicações & Congressos
+## 📝 Produção acadêmica
 
-<details>
-<summary><b>📄 Trabalhos Apresentados</b></summary>
-<br>
+### Trabalho apresentado
 
 > **SANTOS, D. D. F.**; ROMAO, H. A. A.; CARNEIRO, J. A.; CORVALAN, L. J. C.; NUNES, R.; DIAS, R. O.
-> *"Expanding genomic insights into Phasmatodea: mitogenome assembly, phylogenetic reconstruction and nucleotide diversity analyses."*
+> *Expanding genomic insights into Phasmatodea: mitogenome assembly, phylogenetic reconstruction and nucleotide diversity analyses.*
 > **69º Congresso Brasileiro de Genética**, 2024.
 
-</details>
-
-<details>
-<summary><b>🎓 TCC</b></summary>
-<br>
+### Trabalho de Conclusão de Curso
 
 > **SANTOS, D. D. F.**
-> *"Desenvolvimento de um pipeline de bioinformática para análise de redes de co-expressão gênica com dados públicos de sequenciamento: estudo de caso com Spodoptera frugiperda (J. E. Smith, 1797)."*
-> Orientadora: Profa. Dra. Mariana Pires de Campos Telles — **PUC-GO**, 2025.
-
-</details>
-
-<details>
-<summary><b>🏛️ Congressos & Eventos (29+)</b></summary>
-<br>
-
-| Ano | Evento |
-|:---:|:---|
-| 2025 | Astrobiologia - Vida & Universo |
-| 2024 | 69º Congresso Brasileiro de Genética |
-| 2024 | 5ª Conferência Nacional de CT&I |
-| 2024 | Minicurso Anotação e Enriquecimento Funcional |
-| 2024 | Minicurso eDNA Metabarcoding |
-| 2022 | VIII Congresso de CT&I — PUC Goiás |
-| 2022 | I Congresso de Biólogos da 4ª Região |
-| 2021 | VII Congresso de CT&I — PUC Goiás |
-| ... | *e mais 20+ eventos* |
-
-</details>
+> *Desenvolvimento de um pipeline de bioinformática para análise de redes de co-expressão gênica com dados públicos de sequenciamento: estudo de caso com Spodoptera frugiperda (J. E. Smith, 1797).*
+> **PUC-GO**, 2025.
 
 ---
 
-## 🌐 &nbsp;Conecte-se Comigo
+## 🌐 Contato
 
 <div align="center">
 
-[![Lattes](https://img.shields.io/badge/📄_Currículo_Lattes-005AA7?style=for-the-badge)](https://lattes.cnpq.br/1207118458591402)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-daniel-bioinfo)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviddbioinfo@gmail.com)
-&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2481-1112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/david-daniel-bioinfo)
+[![Lattes](https://img.shields.io/badge/Lattes-005AA7?style=flat-square)](https://lattes.cnpq.br/1207118458591402)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0004-2481-1112)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:daviddbioinfo@gmail.com)
 
 </div>
 
@@ -228,18 +176,16 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=daviddfsantos&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/daviddfsantos?label=FOLLOWERS&style=for-the-badge&color=2E8B57&labelColor=0D1117" alt="Followers"/>
 </div>
 
 <br>
 
 <div align="center">
-  <i>"In God we trust; all others must bring data."</i>
-  <br>
-  <b>— W. Edwards Deming</b>
+  <i>"In God we trust; all others must bring data."</i><br>
+  <b>— W. Edwards Deming</b>
 </div>
 
-<br>
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,50:1A5632,100:2E8B57\&height=120\&section=footer)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=130&section=footer)
+```
