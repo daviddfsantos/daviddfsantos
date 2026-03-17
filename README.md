@@ -34,15 +34,19 @@ Localização: Goiânia, GO — Brasil
 
 ## 🛠️ &nbsp;Tech Stack
 
-<details open>
+<details>
 <summary><b>💻 Linguagens de Programação</b></summary>
 <br>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
 
 </details>
 
@@ -145,7 +149,7 @@ Anotações e projetos da pós-graduação em Bioinformática.
 </tr>
 </table>
 
-</div>>
+</div>
 
 ---
 
