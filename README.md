@@ -1,34 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A5632,100:2E8B57&height=250&text=David%20Daniel%20F.%20Santos&fontSize=38&fontColor=ffffff&fontAlignY=30&desc=🧬%20Biólogo%20|%20Analista%20de%20Bioinformática%20|%20Genomics%20Enthusiast&descSize=16&descAlignY=52&animation=fadeIn)
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+biol%C3%B3gicos+em+conhecimento+%F0%9F%A7%AC;Pipelines+%7C+NGS+%7C+Co-expression+Networks+%7C+Phylogenomics)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transformando+dados+biol%C3%B3gicos+em+conhecimento+%F0%9F%A7%AC;Desenvolvendo+Pipelines+%7C+NGS+%7C+RNA-Seq;Redes+de+Co-express%C3%A3o+%7C+Filogen%C3%B4mica" alt="Typing SVG" />
+  </a>
 </div>
-
----
-
-### 👨‍🔬 &nbsp;Sobre Mim
-
-```yaml
-Nome:       David Daniel Ferreira dos Santos
-Cargo:      Analista de Bioinformática @ Biocroma
-Formação:   Biólogo (PUC-GO) — Magna Cum Laude
-Pós-Grad:   Bioinformática Aplicada à Saúde (PUC Minas)
-Pesquisa:   Ex-bolsista PIBIC/CNPq
-Foco:       Genômica, Pipelines NGS, Redes Gênicas
-Localização: Goiânia, GO — Brasil
-```
 
 <br>
 
-- 🔬 Atualmente trabalhando com **Sequenciadores ABI 3500/3500XL** e **GeneMapper**
-- 🧬 TCC: *Pipeline para análise de redes de co-expressão gênica (WGCNA) em Spodoptera frugiperda*
-- 📄 Publicação no **69º Congresso Brasileiro de Genética** — Mitogenômica de Phasmatodea
-- 🌱 Aprofundando conhecimentos em **NGS, RNA-Seq, Filogenômica e Machine Learning aplicado à biologia**
-- 🌍 Idiomas: **Português** (nativo) · **Inglês** (avançado)
+<div align="center">
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-<br clear="right"/>
+### 👨‍🔬 &nbsp;Sobre Mim
+
+**Biólogo (Magna Cum Laude)** pela PUC-GO e pós-graduando em **Bioinformática Aplicada à Saúde** (PUC Minas). Atuo como **Analista de Bioinformática** na Biocroma, unindo programação computacional e biologia molecular para solucionar desafios genômicos.
+
+- 🔬 **Atuação:** Sequenciadores ABI 3500/3500XL e GeneMapper.
+- 🧬 **Pesquisa:** Redes de co-expressão gênica (WGCNA) em *S. frugiperda*.
+- 📄 **Destaque:** Publicação sobre Mitogenômica de Phasmatodea no 69º CBG.
+- 🌱 **Foco:** NGS, RNA-Seq, Filogenômica e Machine Learning na biologia.
+- 📍 **Base:** Goiânia, GO — Brasil.
+
+    </td>
+    <td width="35%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="90%" alt="DNA Animation" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ---
 
