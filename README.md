@@ -11,22 +11,22 @@
 ### 👨‍🔬 &nbsp;Sobre Mim
 
 ```yaml
-Nome:       David Daniel Ferreira dos Santos
-Cargo:      Analista de Bioinformática @ Biocroma
-Formação:   Biólogo (PUC-GO) — Magna Cum Laude
-Pós-Grad:   Bioinformática Aplicada à Saúde (PUC Minas)
-Pesquisa:   Ex-bolsista PIBIC/CNPq
-Foco:       Genômica, Pipelines NGS, Redes Gênicas
+Nome:        David Daniel Ferreira dos Santos
+Cargo:       Analista de Bioinformática @ Biocroma
+Formação:    Biólogo (PUC-GO) — Magna Cum Laude
+Pós-Grad:    Bioinformática Aplicada à Saúde (PUC Minas)
+Pesquisa:    Ex-bolsista PIBIC/CNPq
+Foco:        Genômica, Pipelines NGS, Redes Gênicas
 Localização: Goiânia, GO — Brasil
 ````
 
 <br>
 
-  - 🔬 Atualmente trabalhando com **Sequenciadores ABI 3500/3500XL** e **GeneMapper**
-  - 🧬 TCC: *Pipeline para análise de redes de co-expressão gênica (WGCNA) em Spodoptera frugiperda*
-  - 📄 Publicação no **69º Congresso Brasileiro de Genética** — Mitogenômica de Phasmatodea
-  - 🌱 Aprofundando conhecimentos em **NGS, RNA-Seq, Filogenômica e Machine Learning aplicado à biologia**
-  - 🌍 Idiomas: **Português** (nativo) · **Inglês** (avançado)
+  - 🔬 Atualmente trabalhando com **Sequenciadores ABI 3500/3500XL** e **GeneMapper**.
+  - 🧬 TCC: *Pipeline para análise de redes de co-expressão gênica (WGCNA) em Spodoptera frugiperda*.
+  - 📄 Publicação no **69º Congresso Brasileiro de Genética** — Mitogenômica de Phasmatodea.
+  - 🌱 Aprofundando conhecimentos em **NGS, RNA-Seq, Filogenômica e Machine Learning aplicado à biologia**.
+  - 🌍 Idiomas: **Português** (nativo) · **Inglês** (avançado).
 
 \<br clear="right"/\>
 
@@ -46,15 +46,15 @@ Localização: Goiânia, GO — Brasil
 
 | Área | Ferramentas / Métodos |
 |:---|:---|
-| 🔍 Controle de Qualidade | `FastQC` · `Trimmomatic` · `MultiQC` |
-| 🗺️ Alinhamento & Montagem | `HISAT2` · `STAR` · `SPAdes` · `NOVOPlasty` |
-| 📊 Quantificação | `featureCounts` · `Salmon` · `HTSeq` |
-| 📈 Expressão Diferencial | `DESeq2` · `edgeR` |
-| 🕸️ Redes de Co-expressão | `WGCNA` |
-| 🌳 Filogenômica | `IQ-TREE` · `MEGA` · `MrBayes` · `MAFFT` |
-| 🧪 Anotação Funcional | `BLAST`|
-| 🧫 Genética Forense/Pop | `GeneMapper` |
-| 🔬 Sequenciamento | `ABI 3500` · `ABI 3500XL` (Sanger) |
+| 🔍 **Controle de Qualidade** | `FastQC` · `Trimmomatic` · `MultiQC` |
+| 🗺️ **Alinhamento & Montagem** | `HISAT2` · `STAR` · `SPAdes` · `NOVOPlasty` |
+| 📊 **Quantificação** | `featureCounts` · `Salmon` · `HTSeq` |
+| 📈 **Expressão Diferencial** | `DESeq2` · `edgeR` |
+| 🕸️ **Redes de Co-expressão** | `WGCNA` |
+| 🌳 **Filogenômica** | `IQ-TREE` · `MEGA` · `MrBayes` · `MAFFT` |
+| 🧪 **Anotação Funcional** | `BLAST` |
+| 🧫 **Genética Forense/Pop** | `GeneMapper` |
+| 🔬 **Sequenciamento** | `ABI 3500` · `ABI 3500XL` (Sanger) |
 
 \</details\>
 
@@ -206,22 +206,22 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 [](https://lattes.cnpq.br/1207118458591402)
  
-[](https://www.google.com/search?q=https://linkedin.com/in/david-daniel-bioinfo)
+[](https://linkedin.com/in/david-daniel-bioinfo)
  
 [](mailto:daviddbioinfo@gmail.com)
  
-[](https://www.google.com/search?q=https://orcid.org/0009-0004-2481-1112)
+[](https://orcid.org/0009-0004-2481-1112)
 
 \</div\>
 
 -----
 
-\<div align="center"\>
+<br>
 
+\<div align="center"\>
 \<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Ddaviddfsantos%26color%3D2E8B57%26style%3Dfor-the-badge%26label%3DPROFILE%2BVIEWS" alt="Profile Views"/\>
 \&nbsp;\&nbsp;
 \<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/daviddfsantos%3Flabel%3DFOLLOWERS%26style%3Dfor-the-badge%26color%3D2E8B57%26labelColor%3D0D1117" alt="Followers"/\>
-
 \</div\>
 
 <br>
