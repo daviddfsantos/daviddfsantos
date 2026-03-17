@@ -182,8 +182,8 @@ Repositório com estudos, anotações, testes e materiais.
 <br>
 
 <div align="center">
-  <i>"In God we trust; all others must bring data."</i><br>
-  <b>— W. Edwards Deming</b>
+  <i>"“The first principle is that you must not fool yourself — and you are the easiest person to fool.”"</i><br>
+  <b>— Richard P. Feynman</b>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,50:1A5632,100:2E8B57\&height=120\&section=footer)
