@@ -110,7 +110,7 @@ timeline
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2" width="100%">
 
 ### 🕸️ WGCNA Pipeline — *S. frugiperda*
 Pipeline completo para análise de redes de co-expressão gênica com dados públicos de RNA-Seq.
@@ -120,7 +120,6 @@ Pipeline completo para análise de redes de co-expressão gênica com dados púb
 🔗 **[Ver Repositório →](https://github.com/daviddfsantos/CoExGenePipeline)**
 
 </td>
-
 </tr>
 <tr>
 <td width="50%">
@@ -130,7 +129,7 @@ Coleção de scripts úteis para rotinas de bioinformática no dia a dia.
 
 `Python` `R` `Perl` `Bash`
 
-🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/bioinfo-scripts)**
+🔗 **[Ver Repositório →](https://github.com/daviddfsantos/bioinfo-scripts)**
 
 </td>
 <td width="50%">
@@ -140,13 +139,13 @@ Anotações e projetos da pós-graduação em Bioinformática.
 
 `Notebooks` `Pipelines` `Estudos`
 
-🔗 **[Ver Repositório →](https://github.com/SpatiumRimor/bioinformatics-learning)**
+🔗 **[Ver Repositório →](https://github.com/daviddfsantos/bioinformatics-learning)**
 
 </td>
 </tr>
 </table>
 
-</div>
+</div>>
 
 ---
 
