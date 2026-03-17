@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/biotechnology-illustration-download-in-svg-png-gif-file-formats--dna-structure-bioinformatics-science-and-pack-medical-illustrations-4720177.png" alt="Bioinformatics Illustration" />
+<img align="right" width="300" src="https://octodex.github.com/images/labtocat.png" alt="Labtocat" />
 
 ### 👨‍🔬 &nbsp;Sobre Mim
 
