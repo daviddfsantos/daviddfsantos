@@ -8,10 +8,7 @@
 
 <br>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="65%" valign="top">
+<img align="right" width="350" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Onda flutuante" />
 
 ### 👨‍🔬 &nbsp;Sobre Mim
 
@@ -23,13 +20,7 @@
 - 🌱 **Foco:** NGS, RNA-Seq, Filogenômica e Machine Learning na biologia.
 - 📍 **Base:** Goiânia, GO — Brasil.
 
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="90%" alt="DNA Animation" />
-    </td>
-  </tr>
-</table>
-</div>
+<br clear="all" />
 
 ---
 
