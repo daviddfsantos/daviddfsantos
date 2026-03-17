@@ -114,7 +114,7 @@ Pipeline completo para análise de redes de co-expressão gênica com dados púb
 
 ---
 
-### 🧰 Bioinfo Scripts
+### 🧰 Bioinfo Scripts (Em produção)
 
 Coleção de scripts voltados para automação e apoio a rotinas de bioinformática.
 
@@ -123,9 +123,9 @@ Coleção de scripts voltados para automação e apoio a rotinas de bioinformát
 
 ---
 
-### 📚 Bioinformatics Learning
+### 📚 Bioinformatics Learning (Em produção)
 
-Repositório com estudos, anotações, testes e materiais produzidos durante a pós-graduação em Bioinformática.
+Repositório com estudos, anotações, testes e materiais.
 
 **Stack:** `Notebooks` `Pipelines` `Estudos`
 🔗 **[Acessar repositório](https://github.com/daviddfsantos/bioinformatics-learning)**
